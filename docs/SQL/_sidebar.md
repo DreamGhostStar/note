@@ -11,7 +11,7 @@
     * [排序](查询/排序)
     * [投影查询](查询/投影查询)
 * [列](列/REAMDE)
-* [使用SQL语句](使用SQL语句/REAMDE)
+* [实用SQL语句](实用SQL语句/REAMDE)
 * [修改数据](修改数据/REAMDE)
     * [INSERT](修改数据/INSERT)
     * [UPDATE](修改数据/UPDATE)
